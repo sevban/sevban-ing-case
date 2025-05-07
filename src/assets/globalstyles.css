@@ -1,0 +1,11 @@
+body {
+    background: #f5f5f5;
+    color: #000;
+    margin: 40px 0;
+    font: 16px 'Trebuchet MS', Arial;
+}
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
